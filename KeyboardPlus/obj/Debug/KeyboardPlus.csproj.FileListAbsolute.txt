@@ -1,7 +1,6 @@
 E:\Sunqi\VsStudio\KeyboardPlus\KeyboardPlus\bin\Debug\KeyboardPlus.exe.config
 E:\Sunqi\VsStudio\KeyboardPlus\KeyboardPlus\bin\Debug\KeyboardPlus.exe
 E:\Sunqi\VsStudio\KeyboardPlus\KeyboardPlus\bin\Debug\KeyboardPlus.pdb
-E:\Sunqi\VsStudio\KeyboardPlus\KeyboardPlus\obj\Debug\KeyboardPlus.csprojResolveAssemblyReference.cache
 E:\Sunqi\VsStudio\KeyboardPlus\KeyboardPlus\obj\Debug\KeyboardPlus.Main.resources
 E:\Sunqi\VsStudio\KeyboardPlus\KeyboardPlus\obj\Debug\KeyboardPlus.Properties.Resources.resources
 E:\Sunqi\VsStudio\KeyboardPlus\KeyboardPlus\obj\Debug\KeyboardPlus.csproj.GenerateResource.Cache
